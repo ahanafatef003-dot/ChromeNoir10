@@ -4,7 +4,7 @@
    Backend: Backendless (credentials in ../js/backendless-config.js)
 ══════════════════════════════════════════════════════════════ */
 
-const ADMIN_PASSWORD  = '1234';
+const ADMIN_PASSWORD  = 'HongSong1213';
 const ADMIN_POLL_MS   = 20000; // 20-second polling
 
 /* ── State ───────────────────────────────────────── */
