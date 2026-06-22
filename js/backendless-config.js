@@ -4,8 +4,8 @@
    Updated credentials — DO NOT use old credentials
 ═══════════════════════════════════════════════════ */
 const Backendless_CONFIG = {
-  APP_ID:   'DA2A1061-FB55-4E0C-BC50-1921539B86F1',
-  API_KEY:  'DF48048D-AC9F-4385-9AD9-BF302E0F44FE',
+  APP_ID:   '',
+  API_KEY:  '',
   BASE_URL: 'https://api.backendless.com'
 };
 
